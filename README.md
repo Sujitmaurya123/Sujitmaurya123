@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sujitkic6802maurya@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
