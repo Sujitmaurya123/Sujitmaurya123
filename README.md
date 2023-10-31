@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujit Kumar</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  [![HitCount](https://hits.dwyl.com/Sujitmaurya123/Sujitmaurya123.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Sujitmaurya123/Sujitmaurya123)
 - 👨‍💻 All of my projects are available at [https://sujitmaurya123.github.io/Sujitkumar_portfolio/]
 
 - 📫 How to reach me **sujitkic6802maurya@gmail.com**
