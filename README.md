@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitmaurya123&label=Profile%20views&color=0e75b6&style=flat" alt="sujitmaurya123" /> </p>
  
-- 👨‍💻 All of my projects are available at [https://sujit-portfolio-delta.vercel.app/]
+- 👨‍💻 All of my projects are available at [https://sujit-portfolio-mpui.vercel.app/]
 
 - 📫 How to reach me **sujitkic6802maurya@gmail.com**
 
